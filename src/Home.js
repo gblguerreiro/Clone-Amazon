@@ -16,7 +16,7 @@ function Home() {
                     <Product 
                         id=""
                         title='The lean starturp: How Constanst Inovation Creates Radically Succesful Businesses Paperback' 
-                        price='29.99'
+                        price={29.99}
                         image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg"
                         rating={3}
                     />
