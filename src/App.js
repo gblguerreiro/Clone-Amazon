@@ -21,7 +21,7 @@ function App() {
           type:'SET_USER',
           user:authUser
         })
-      }else{
+      }else{ 
         //the user is logged out
         dispatch({
           type:'SET_USER',
