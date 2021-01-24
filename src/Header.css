@@ -45,6 +45,7 @@
 .header__basketCount{
     margin-left:10px;
     margin-right:10px;
+    color:#f0b00d;
 }
 .header__nav{
     display:flex;

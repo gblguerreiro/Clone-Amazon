@@ -9,7 +9,11 @@ import {auth} from "./firebase";
 import {useStateValue} from "./StateProvider";
 
 
+
 function App() {
+  useEffect(() => {
+    document.title = "Amazon Clone"  
+  }, []);
   const [{}, dispatch] = useStateValue();
     useEffect(()=>{
     //will only run once when the app component loads...

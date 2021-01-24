@@ -59,8 +59,78 @@ function Home() {
                         image="https://images-na.ssl-images-amazon.com/images/I/6125mFrzr6L._AC_SX355_.jpg"
                     />                   
                 </div>        
-            </div>    
+            </div>  
+            <div className="footer">
+                <div className="footer__content">
+                    <div className="footer__row">
+                        <h4> Get to know us </h4>
+                        <br />
+                         <small> <a className="links" href="/" >Careers </a> </small>
+                         <br />
+                         <small>  <a className="links" href="/" >Blog</a></small>
+                         <br />
+                         <small>  <a className="links" href="/" >About Amazon</a> </small>
+                         <br />
+                         <small>  <a className="links" href="/" >Investor Relations</a> </small>
+                         <br />
+                         <small> <a className="links" href="/" > Amazon Devices</a> </small>
+                         <br />
+                         <small>  <a className="links" href="/" >Amazon Tours</a> </small>
+
+                    </div>
+                    <div className="footer__row">
+                        <h4> Make money with us </h4>
+                        <br />
+                        <small> <a className="links" href="/" >Sell products on Amazon </a> </small>
+                         <br />
+                         <small>  <a className="links" href="/" >Sell apps on Amazon</a></small>
+                         <br />
+                         <small>  <a className="links" href="/" >Become an Affiliate</a> </small>
+                         <br />
+                         <small>  <a className="links" href="/" >Advertise Your Products</a> </small>
+                         <br />
+                         <small> <a className="links" href="/" > Self-Publish with Us</a> </small>
+                         <br />
+                         <small>  <a className="links" href="/" >Host an Amazon Hub</a> </small>
+                    </div>
+                    <div className="footer__row">
+                        <h4> Amazon Payment Products </h4>
+                        <br />
+                        <small> <a className="links" href="/" >Amazon Business Card </a> </small>
+                         <br />
+                         <small>  <a className="links" href="/" >Shop with Points</a></small>
+                         <br />
+                         <small>  <a className="links" href="/" >Reload Your Balance</a> </small>
+                         <br />
+                         <small>  <a className="links" href="/" >Amazon Currency Converter</a> </small>
+                    </div>
+                    <div className="footer__row">
+                        <h4> Let Us Help You </h4>
+                        <br />
+                        <small> <a className="links" href="/" >Amazon and COVID-19</a> </small>
+                         <br />
+                         <small>  <a className="links" href="/" >Your Account</a></small>
+                         <br />
+                         <small>  <a className="links" href="/" >Your Orders</a> </small>
+                         <br />
+                         <small>  <a className="links" href="/" >Shipping Rates & Policies</a> </small>
+                         <br />
+                         <small> <a className="links" href="/" > Returns & Replacements</a> </small>
+                         <br />
+                         <small>  <a className="links" href="/" >Manage Your Content and Devices</a> </small>
+                         <br />
+                         <small>  <a className="links" href="/" >Amazon Assistant</a> </small>
+                         <br />
+                         <small>  <a className="links" href="/" >Help</a> </small>
+                    </div>
+                </div>
+            </div>
+            <div className="footer__2">
+                <small> This is a FAKE AMAZON CLONE </small>
+            </div>
         </div>
+      
+        
     )
 }
 

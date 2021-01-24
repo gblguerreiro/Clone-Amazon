@@ -40,3 +40,6 @@
     margin-top:10px;
     border-color: #a88734 #9c7e31 #846a28;
 }
+.product > button:hover{
+    text-decoration:underline;
+}
